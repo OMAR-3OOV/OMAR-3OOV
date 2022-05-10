@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Develop & Learning java/kotlin</h3>
+<h3 align="center">Take a little trip in my profile</h3>
 <img align="center" src="https://i.imgur.com/cfLe76k.png" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omar-3oov&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar-3oov" />
