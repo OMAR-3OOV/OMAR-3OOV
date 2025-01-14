@@ -16,7 +16,7 @@
 <summary><h3> About me 🤓 </h3></summary>
   <div> 
     <h5>⬩ 🌱 <span> My characteristics: </span> Learner, Innovator, Patient anything to develop my knowledge and skills!</h5>
-    <h5>⬩ ⚡ Why programming? I've watching my father successing being a computer engineering and i did get my goals from this point where am going to be better and continue my dad journey of being success with life but different name, story, timeline~!  :< </h5>
+    <h5>⬩ ⚡ Why programming? I've watching my father successing being a computer engineering and i did get my goals from this point where am going to be better and continue my dad journey of being success with life but different name, story, timeline~!  ヾ(*￣▽￣*) </h5>
     <h5>⬩ 🖼 Hobbies: Gaming, designing, learn languages </h5>
   </div>
     
