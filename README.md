@@ -47,7 +47,7 @@
 
 <details align="center">
   <summary><h3>Social Media ✨</h3></summary>
-<h3>🤙 Connect with me:</h3>
+<h3>🤙 My contacts:</h3>
 <p>
 <a href="https://twitter.com/indraohtsutsoki" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=Twitter&message=@IndraOhtsutsuki&logo=twitter&style=for-the-badge&color=blue" alt="indraohtsutsoki"/></a>
 <a href="https://stackoverflow.com/users/19056719" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=Stack%20Overflow&message=omar%20ibrahim&logo=stackoverflow&style=for-the-badge&color=orange" alt="19056719"/></a>
